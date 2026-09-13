@@ -2,8 +2,7 @@ cask "mojito" do
   version "1.8.0"
   sha256 "596efdb2f3b80562cc6137e54560fff3f2268fda2a55ed4c81d1c297aadccb71"
 
-  url "https://github.com/wr/mojito/releases/download/v#{version}/Mojito.dmg",
-      verified: "github.com/wr/mojito/"
+  url "https://github.com/wr/mojito/releases/download/v#{version}/Mojito.dmg"
   name "Mojito"
   desc "Type :emoji:, ::symbol::, and :::gif::: shortcodes in any text field"
   homepage "https://mojito.wells.ee/"
