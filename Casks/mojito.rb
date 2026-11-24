@@ -1,6 +1,6 @@
 cask "mojito" do
-  version "1.10.1"
-  sha256 "ebb7e73e9651779762f9527f9ba8479c826ecbe876c80213f6831a4303870153"
+  version "1.10.2"
+  sha256 "4d32ee257fa6540507e3736555bf9c0eee7afb2835e53482329a573e08609b7d"
 
   url "https://github.com/wr/mojito/releases/download/v#{version}/Mojito.dmg"
   name "Mojito"
